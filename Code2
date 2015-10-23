@@ -1,0 +1,4 @@
+Enter file contents herename= input ("what is your name?")
+age=int(input("How old are you?"))
+age = age + 1
+print ("Hello",name,",next year you will be",age,"years old")  
